@@ -1,0 +1,29 @@
+{
+  "name": "helpertan",
+  "version": "1.0.0",
+  "description": "To run the bot, you can use the command `python gettingstarted.py` (or `py`) in the terminal. If you are using a virtual environment, make sure you activate it first.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-w-f/Helpertan.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "daniel-w-f",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/daniel-w-f/Helpertan/issues"
+  },
+  "homepage": "https://github.com/daniel-w-f/Helpertan#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}

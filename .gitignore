@@ -1,1 +1,6 @@
 token.txt
+
+# node.js
+node_modules
+.env
+config.json
